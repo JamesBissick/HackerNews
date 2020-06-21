@@ -2,4 +2,4 @@
 
 A iOS/macOS client for HackerNews made in SwiftUI
 
-![](documentation/preview.png)
+![](Documentation/preview.png)
