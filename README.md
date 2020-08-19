@@ -1,9 +1,6 @@
 # HackerNews
 
-A iOS/macOS client for HackerNews made in SwiftUI
-
-
-  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
+  A iOS/macOS client for HackerNews made in SwiftUI
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
